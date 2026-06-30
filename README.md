@@ -1,0 +1,1 @@
+# typora-license-guide
